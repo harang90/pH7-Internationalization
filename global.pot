@@ -49,7 +49,7 @@ msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:29
 msgid "Hello World"
-msgstr ""
+msgstr "헬로 월드"
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:30
 msgid ""
